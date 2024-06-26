@@ -17,4 +17,5 @@ The project utilizes the rotten tomato movie reviews dataset for training and te
 
 **Requirements**
 Python 3.x
+
 Required libraries 
